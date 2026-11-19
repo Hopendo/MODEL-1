@@ -1,0 +1,9 @@
+[
+  {
+    "role_id": "REQ-101",
+    "title": "Junior AI & Data Engineer",
+    "department": "Intelligence Platform",
+    "description": "Looking for someone with Python data cleaning using Pandas, REST APIs, SQL databases, and experience with vector databases or RAG pipelines.",
+    "required_keywords": ["python", "pandas", "sql", "vector", "rag", "api"]
+  }
+]

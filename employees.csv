@@ -1,0 +1,6 @@
+emp_id,full_name,department,role_title,experience_years,bio_and_skills
+EMP001,Thabo Mokoena,IT Support,"  junior technician ",2,"Troubleshoots Windows/Linux, basic Python scripting, Cisco networking and subnetting."
+EMP002,Lerato Ndlovu,Data Ops,Data Analyst,3,"Experienced in SQL queries, Excel reporting, Pandas data cleaning, and building dashboards."
+EMP003,,Engineering,Backend Dev,4,"Builds REST APIs with Python and FastAPI, PostgreSQL database design, Docker containers."
+EMP004,Sipho Khumalo,IT Support,Helpdesk,1,"Customer support, hardware repairs, Active Directory, learning basic HTML and CSS."
+EMP005,Zanele Dlamini,AI Lab,ML Intern,1,"Built RAG prototypes using ChromaDB, embeddings, HuggingFace models, and NumPy."
